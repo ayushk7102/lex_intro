@@ -1,0 +1,4 @@
+db_type : mysql
+db_name : testing
+db_prefix : pretest
+db_port : 2911
